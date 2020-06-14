@@ -1,1 +1,1 @@
-# titanic-LogisticRegression
+# Classification
